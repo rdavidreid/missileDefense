@@ -13,4 +13,3 @@ MVP Features:
 
 Future Features (in order of importance)
 - [ ] Player can purchase upgrades at the end of each round
-- [ ]
