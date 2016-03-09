@@ -2,16 +2,19 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Missile Defense</title>
+    <link href="css/missileDefense.css" rel="stylesheet">
     <script type="application/javascript" src="lib/utils.js"></script>
     <script type="application/javascript" src="lib/movingObject.js"></script>
     <script type="application/javascript" src="lib/missile.js"></script>
     <script type="application/javascript" src="lib/game.js"></script>
     <script type="application/javascript" src="lib/gameview.js"></script>
     <script type="application/javascript" src="lib/city.js"></script>
+    <script type="application/javascript" src="lib/bullet.js"></script>
 
   </head>
-  <body>
+  <body id="body">
+    <h2 id="title"></h2>
 
     <canvas id="canvas"></canvas>
 
@@ -23,12 +26,17 @@
         canvasEl.height = missileDefense.Game.DIM_Y;
         var ctx = canvasEl.getContext("2d");
         var game = new missileDefense.Game();
+        window.game = game;
         new missileDefense.GameView(game, ctx).start();
       })();
 
-
     </script>
 
+
+
+    <script type="application/javascript" src="lib/actions.js"></script>
+    <div id="woo">
+    </div>
   </body>
 </html>
 
