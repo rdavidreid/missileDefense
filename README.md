@@ -9,7 +9,8 @@ MVP Features:
 - [X] Missiles destroy a city on collision
 - [X] Player can fire missiles at hostile missiles to destroy them
 - [X] Multiple waves of missiles, more missiles as game progresses
-- [ ] Player looses game if all bases are lost
+- [X] Player looses game if all bases are lost
+- [X] Missiles only fire at live cities
 - [ ] leaderboards
 
 Future Features (in order of importance)
