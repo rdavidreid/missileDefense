@@ -5,10 +5,11 @@ Defend your cities from the onslaught of incoming missiles!
 
 MVP Features:
 
-- [ ] Missiles rain down upon player's cities
-- [ ] Missiles destroy a city on collision
-- [ ] Player can fire missiles at hostile missiles to destroy them
-- [ ] Multiple waves of missiles, more missiles as game progresses
+- [X] Missiles rain down upon player's cities
+- [X] Missiles destroy a city on collision
+- [X] Player can fire missiles at hostile missiles to destroy them
+- [X] Multiple waves of missiles, more missiles as game progresses
+- [ ] Player looses game if all bases are lost
 - [ ] leaderboards
 
 Future Features (in order of importance)
