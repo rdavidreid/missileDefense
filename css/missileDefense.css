@@ -9,4 +9,5 @@
   display: block;
   border: 1px solid black;
   background-color: #262626;
+  cursor: crosshair;
 }
