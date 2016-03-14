@@ -1,7 +1,8 @@
 # Missile Defense
 
 
-Defend your cities from the onslaught of incoming missiles!
+![Missile Defense](/images/missileDefense.png?raw=true "Optional Title")
+
 
 MVP Features:
 
