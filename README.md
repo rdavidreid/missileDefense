@@ -4,7 +4,7 @@ Defend your cities from the onslaught of incoming missiles! Use A S and D to fir
 
 Project made with JavaScript and HTML5 Canvas.
 
-![Missile Defense](/images/missileDefense.png?raw=true "Missile Defense")
+![Missile Defense](/images/missileDefenseScreen.png?raw=true "Missile Defense")
 
 
 Firing a bullet generates a bullet at one of three starting locations (dependent on if A, S, or D was pressed) and calculates a vector that will intercept the mouse's current coordinates. Each instance of a bullet saves the mouse's current location when it is created as its destination.
