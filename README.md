@@ -1,11 +1,11 @@
 # Missile Defense
 
-
-![Missile Defense](/images/missileDefense.png?raw=true "Missile Defense")
-
 Defend your cities from the onslaught of incoming missiles! Use A S and D to fire missiles from your left, middle, and right tower. Aim with your mouse cursor. Your missile will explode at the coordinates your mouse was at when you fired a missile. The explosion from your missile will cause other missiles caught in its blast radius to explode.
 
 Project made with JavaScript and HTML5 Canvas.
+
+![Missile Defense](/images/missileDefense.png?raw=true "Missile Defense")
+
 
 Firing a bullet generates a bullet at one of three starting locations (dependent on if A, S, or D was pressed) and calculates a vector that will intercept the mouse's current coordinates. Each instance of a bullet saves the mouse's current location when it is created as its destination.
 
