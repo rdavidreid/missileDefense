@@ -1,7 +1,7 @@
 # Missile Defense
 
 
-![Missile Defense](/images/missileDefense.png?raw=true "Missile Defense)
+![Missile Defense](/images/missileDefense.png?raw=true "Missile Defense")
 
 Defend your cities from the onslaught of incoming missiles! Use A S and D to fire missiles from your left, middle, and right tower. Aim with your mouse cursor. Your missile will explode at the coordinates your mouse was at when you fired a missile. The explosion from your missile will cause other missiles caught in its blast radius to explode.
 
